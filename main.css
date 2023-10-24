@@ -11,3 +11,6 @@ p {
     width: 350px;
     box-sizing: border-box;
 }
+.center {
+    text-align: center;
+}
